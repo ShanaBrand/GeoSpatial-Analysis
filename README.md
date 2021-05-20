@@ -1,4 +1,4 @@
-# GeoSpatial-Analysis
+# Geo Spatial Data Analysis
 
 In this analysis I used Python geodata pandas library to offer solutions to several real-world problems like:
 
